@@ -1,0 +1,16 @@
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe.config
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.exe
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\bin\Debug\ControlEscolar.pdb
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.frmAlumno.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.frmAlumnoClase.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.frmClase.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.frmMaestro.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.frmMateria.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.frmControlEscolar.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.frmPeriodo.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.Properties.Resources.resources
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csproj.GenerateResource.Cache
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.exe
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.pdb
+C:\Users\Maribel\Documents\Visual Studio 2015\Projects\ControlEscolar\ControlEscolar\obj\Debug\ControlEscolar.csprojResolveAssemblyReference.cache
