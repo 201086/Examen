@@ -1,8 +1,0 @@
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\Examen.dll.config
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\Examen.dll
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\Examen.pdb
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\mono.security.dll
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\npgsql.dll
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\obj\Debug\Examen.dll
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\obj\Debug\Examen.pdb
-C:\Users\EQUIPO\Documents\Visual Studio 2013\Projects\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
